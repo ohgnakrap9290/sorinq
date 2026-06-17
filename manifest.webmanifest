@@ -1,11 +1,11 @@
 {
-  "name": "Sorin Q",
-  "short_name": "Sorin Q",
+  "name": "qqq",
+  "short_name": "qqq",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#050505",
   "theme_color": "#050505",
-  "description": "Random flight attendant interview question timer.",
+  "description": "Random interview question timer.",
   "icons": [
     {
       "src": "icon.svg",
